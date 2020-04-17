@@ -17,10 +17,24 @@ Needs: Frontend Devs, Backend Devs, Ops, Mobile Devs, POs
 
 * Sunday at 18:00? -> Here: https://meet.shootfor.net/TheRealWolkenbruch
 
+# Scope of the project
+
+We want to define (and limit) the scope of our implementation. The scope of the
+limitation defines the technical architecture.
+
+The scope of the project can be defined through user stories. Those user
+stories can be turned into tickets. The tickets can then be turned into code.
+
+* [User Stories](/UserStories.md)
+
+# Next Steps
+
+* Derive Issues/Tasks from the User Stories
+* Derive an overall Architecture that covers all requirements from the Tasks
+* Define Apps & Repositories & tech stack from the architecture + tasks
+* Assign Tasks and work on them
+
 
 # TODOs
 
-* Defintion of the (sub-)project & features - i.e. what to do and what not to do
-* Define Architecture & Technologies
-* Better Name for the project
-* Next Steps
+* (Better) Name for the project
