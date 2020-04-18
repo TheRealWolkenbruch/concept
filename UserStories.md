@@ -1,6 +1,6 @@
 # User Stories
 
-## Controling
+## Controlling
 
 ### Backend
 
