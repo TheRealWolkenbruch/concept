@@ -15,7 +15,7 @@ Needs: Frontend Devs, Backend Devs, Ops, Mobile Devs, POs
 
 # Next Meeting
 
-* Tuesday at 18:00? -> Here: https://meet.shootfor.net/TheRealWolkenbruch
+* Thursday at 16:30? -> Here: https://meet.shootfor.net/TheRealWolkenbruch
 
 # Scope of the project
 
