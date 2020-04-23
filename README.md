@@ -10,9 +10,13 @@ Let’s create an app to “silently” protect people in violent households or 
 This app is called AreYouThere.
 
 Technical: Modern open source Web-App with backend & frontend, easy to deploy, mobile-friendly/first.
+
 Extension points: Android/iPhone app with more functionality.
 
 Needs: Frontend Devs, Backend Devs, Ops, Mobile Devs, POs
+
+Our contribution can be found at DevPost:
+https://devpost.com/software/areyouthere
 
 
 # Next Meetings
