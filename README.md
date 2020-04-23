@@ -1,4 +1,4 @@
-# "Dead Man's Switch App"
+# AreYouThere
 
 ## Description
 
@@ -6,6 +6,8 @@ This project is part of the [EU vs Virus Hackathon](https://euvsvirus.org/)
 We are Team "[Wolkenbruch](https://github.com/TheRealWolkenbruch/)"
 
 Let’s create an app to “silently” protect people in violent households or elder citizens. A “dead man’s switch” is a switch that raises an alarm (in this case for example in a non-profit/social organization or in some social/welfare authority office), if it has not been pressed after a certain interval. The idea is to enforce regular feedback to those who need a bit of surveillance and protection, if the feedback is not coming, help can be sent or at least calls can be made.
+
+This app is called AreYouThere.
 
 Technical: Modern open source Web-App with backend & frontend, easy to deploy, mobile-friendly/first.
 Extension points: Android/iPhone app with more functionality.
@@ -37,4 +39,6 @@ stories can be turned into tickets. The tickets can then be turned into code.
 
 # TODOs
 
-* (Better) Name for the project
+* Defintion of the (sub-)project & features - i.e. what to do and what not to do
+* Define Architecture & Technologies
+* Next Steps
