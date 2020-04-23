@@ -1,42 +1,34 @@
 # User Stories
 
+## General Description
+
+A `Ward` (formerly in discussions "Unprotected Users") is a person, that is under protection (through a `Bond` formerly known as Dead Man's Switch) of a `Guardian` (formaly known as "Authority User") which is another person actively using our app.
+
+A `Bond` has an interval within a `Ward` has to react - this reaction triggers a reset of an interval.
+
+If the interval is running out, the `Guardian` must receive a warning. 
+
 ## Controlling
 
 ### Backend
 
-* An Authority User must be able to register, login and log out from a Backend
-* An Unprotected User should be able to register, login and log out from a Backend
-* An Authority User must be able to maintain Unprotected User data (such as
-    email, name, addresses).
-* An Unprotected User should be able to maintain their own data.
+* A Guardian must be able to register, login and log out from a Backend
+* A Guardian must be able to create, edit, delete `Bonds` for `Wards`.
+* One `Bond` must be assigned to one `Ward`
+* ~~An Unprotected User should be able to register, login and log out from a Backend
+* A `Bond` must trigger a `Ward` through a unique URL that is delivered via Email from the Backend
+* A `Ward` must be able to maintain their own (such as email, name, addresses) through their unique URL.
 
-General Idea:
+**General Idea:**
 
-The whole idea that I'm proposing here is that Unprotected Users don't need a
+The whole idea that I'm proposing here is that a `Ward` does not need a
 login/credential to be able to use the service. The usage of the service must
 be completely hassle-free & password-free in order to be as easy and
-non-invasive as possible. Logins for Unprotected Users SHOULD be possible to maintain their own data.
-
-### Services
-
-#### Dead Mans Switch
-
-* An authority must be able to create, edit & delete a "dead mans switch
-  service" for unprotected users
-* A dead man's switch must appear as a button (or notification or similar) on the
-    Unprotected User's device.
-* A dead mans switch configuration must be initially confirmed on an Unprotected User's
-    device.
-* A dead man's switch has an interval; if the dead man's switch is not
-    "pressed" during that interval the creating Authority User must receive a
-    notification/warning.
-* An Authority user must be able to discard such a warning.
-
-#### "Communication Channel from Unprotected to Authority"
-
-@omarsotillo feel free to sketch further ideas here
-
+non-invasive as possible.
 
 ### Frontend
 
-TBD: Also - how does a frontend to an Unprotected User look like?
+* One `Ward` must receive an Email with one unique URL that leads them towards a representation of a `Bond` that got created by a `Guardian`
+* One click on that unique URL must reset the `Bond`s interval
+* On the `Bond` representation/website the `Ward` must have the chance to provide additional information (such as "How are you?"-scale + free text field). A submit must present that information in the `Guardian`s backend. 
+
