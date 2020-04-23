@@ -31,4 +31,10 @@ non-invasive as possible.
 * One `Ward` must receive an Email with one unique URL that leads them towards a representation of a `Bond` that got created by a `Guardian`
 * One click on that unique URL must reset the `Bond`s interval
 * On the `Bond` representation/website the `Ward` must have the chance to provide additional information (such as "How are you?"-scale + free text field). A submit must present that information in the `Guardian`s backend. 
+* On the `Bond` representation/website the `Ward` must have the chance to edit
+their own personal contact details (email, name, other contact details, ...)
+
+**Sketch**:
+
+![Sketch for Frontend - what the Ward sees](Wolkenbruch_mobile.png)
 
