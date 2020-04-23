@@ -36,5 +36,5 @@ their own personal contact details (email, name, other contact details, ...)
 
 **Sketch**:
 
-![Sketch for Frontend - what the Ward sees](Wolkenbruch_mobile.png)
+![Sketch for Frontend - what the Ward sees](https://raw.githubusercontent.com/TheRealWolkenbruch/concept/user_stories/Wolkenbruch_mobile.png)
 
