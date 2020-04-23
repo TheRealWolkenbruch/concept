@@ -15,9 +15,11 @@ Extension points: Android/iPhone app with more functionality.
 Needs: Frontend Devs, Backend Devs, Ops, Mobile Devs, POs
 
 
-# Next Meeting
+# Next Meetings
 
-* Thursday at 16:30? -> Here: https://meet.shootfor.net/TheRealWolkenbruch
+* Friday at around 21:00? -> Here: https://meet.shootfor.net/TheRealWolkenbruch
+* Throughout Friday already in our [Slack Room](https://euvsvirus.slack.com/archives/C012AS1TR36)
+* Saturday we plan to start hacking at around 10:00.
 
 
 # TODOs
