@@ -25,6 +25,23 @@ https://devpost.com/software/areyouthere
 * Throughout Friday already in our [Slack Room](https://euvsvirus.slack.com/archives/C012AS1TR36)
 * Saturday we plan to start hacking at around 10:00.
 
+# Scope of the project
+
+We want to define (and limit) the scope of our implementation. The scope of the
+limitation defines the technical architecture.
+
+The scope of the project can be defined through user stories. Those user
+stories can be turned into tickets. The tickets can then be turned into code.
+
+* [User Stories](/UserStories.md)
+
+# Next Steps
+
+* Derive Issues/Tasks from the User Stories
+* Derive an overall Architecture that covers all requirements from the Tasks
+* Define Apps & Repositories & tech stack from the architecture + tasks
+* Assign Tasks and work on them
+
 
 # TODOs
 
