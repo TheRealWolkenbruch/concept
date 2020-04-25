@@ -35,7 +35,7 @@ try to make sure to drive your topics forward. Escalate early. :)
 * Frontend Design: @omarsotillo
 * Frontend Code for Guardians (in the Backoffice): @Thudilie with @omarsotillo
 * Frontend/Forms for the Wards (Reachable through a Link in an Email): @Thudilie with @omarsotillo
-* Design/Layout for Emails: ???
+* Design/Layout for Emails: @Thudilie
 
 # Next Meetings
 
