@@ -19,6 +19,24 @@ Our contribution can be found at DevPost:
 https://devpost.com/software/areyouthere
 
 
+# Areas of Work & Responsibility
+
+_Responsibility_ in this regard means: Have fun! Allow pair programming! But
+try to make sure to drive your topics forward. Escalate early. :)
+
+* Organizational/Hackathon Topics: @hendrikb
+* Overall Architecture Aspects: The Whole team
+* Entity Relationship definition: @garllon
+* CI/CD, Deployment & Ops: @hendrikb, but need assistance
+* Dockerisation & Shipping: @hendrikb, but need assistance
+* Backend API Design: @garllon with @doggygit and @randres1640
+* Implementation main API/Backoffice functionality (we need lots of helping hands here!): @garllon with @doggygit and @randres1640
+* Implementation Auth: @doggygit
+* Frontend Design: @omarsotillo
+* Frontend Code for Guardians (in the Backoffice): @Thudilie with @omarsotillo
+* Frontend/Forms for the Wards (Reachable through a Link in an Email): @Thudilie with @omarsotillo
+* Design/Layout for Emails: @Thudilie
+
 # Next Meetings
 
 * Friday at around 21:00? -> Here: https://meet.shootfor.net/TheRealWolkenbruch
