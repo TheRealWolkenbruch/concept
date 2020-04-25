@@ -35,6 +35,10 @@ stories can be turned into tickets. The tickets can then be turned into code.
 
 * [User Stories](/UserStories.md)
 
+# Entities
+
+We have been sketching our Data model in this File: [Entities.md](Entities.md)
+
 # Next Steps
 
 * Derive Issues/Tasks from the User Stories
